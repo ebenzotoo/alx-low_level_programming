@@ -1,1 +1,1 @@
-write c that prints exactly
+write c program that prints with proper grammer
