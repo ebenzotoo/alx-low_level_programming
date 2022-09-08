@@ -1,1 +1,1 @@
-script that prints various types
+script that generates the assembly code
