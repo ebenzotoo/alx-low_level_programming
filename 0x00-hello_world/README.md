@@ -1,1 +1,1 @@
-write c program that prints with proper grammer
+script that prints various types
