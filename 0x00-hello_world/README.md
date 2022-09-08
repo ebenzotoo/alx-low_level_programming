@@ -1,1 +1,1 @@
-script that compiles a c file named
+write c that prints exactly
