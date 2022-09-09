@@ -1,1 +1,1 @@
-script that prints all possible different combinations
+script that prints all possible combinations of two digit numbers
