@@ -1,1 +1,1 @@
-script that prints the alphabet in lowercase
+Script that prints the alphabets in lowercase
