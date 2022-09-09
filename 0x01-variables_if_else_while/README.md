@@ -1,1 +1,1 @@
-script to assign a random number to the variable
+script that prints the alphabet in lowercase
