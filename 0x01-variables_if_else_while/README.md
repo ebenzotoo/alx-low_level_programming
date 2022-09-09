@@ -1,1 +1,1 @@
-script that prints all numbers of base 16 in lowercase
+script that prints all possible different combinations
