@@ -1,1 +1,1 @@
-script that prints all single digit numbers of base
+script that prints all single digit numbers of base 10
