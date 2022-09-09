@@ -1,1 +1,1 @@
-script that prints the alphabet in lowercase
+script that prints all single digit numbers of base
