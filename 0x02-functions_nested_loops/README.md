@@ -1,1 +1,1 @@
-function that prints the n times table
+nature made the natural
