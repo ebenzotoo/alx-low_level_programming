@@ -1,1 +1,1 @@
-function that prnts all natural numbers
+function that prints the n times table
