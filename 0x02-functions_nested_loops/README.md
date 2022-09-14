@@ -1,1 +1,1 @@
-function that adds two integers and returns the result
+function that prnts all natural numbers
