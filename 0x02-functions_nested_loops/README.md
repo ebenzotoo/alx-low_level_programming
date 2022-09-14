@@ -1,1 +1,1 @@
-function that prints the 9 timestable
+function that adds two integers and returns the result
