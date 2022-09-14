@@ -1,1 +1,1 @@
-nature made the natural
+computer class
