@@ -1,1 +1,1 @@
-code that makes output to go into an infite loop
+prints largest of three integers
