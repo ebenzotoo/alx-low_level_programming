@@ -1,1 +1,1 @@
-function that prints the numbers 0 to 9
+function that prints 10 times the numbers
