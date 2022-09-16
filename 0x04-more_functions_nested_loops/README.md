@@ -1,1 +1,1 @@
-function that drwas a straight line
+function that draws diagonal line
