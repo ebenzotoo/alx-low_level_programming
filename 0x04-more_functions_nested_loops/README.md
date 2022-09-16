@@ -1,1 +1,1 @@
-fizz buzz test
+print traingle
