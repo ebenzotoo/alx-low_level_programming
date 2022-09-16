@@ -1,1 +1,1 @@
-function that prints 10 times the numbers
+function that drwas a straight line
