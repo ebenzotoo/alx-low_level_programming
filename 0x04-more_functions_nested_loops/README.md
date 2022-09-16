@@ -1,1 +1,1 @@
-function that draws diagonal line
+function that prints square
