@@ -1,1 +1,1 @@
-function that prints square
+fizz buzz test
