@@ -1,1 +1,1 @@
-function that prints every other characterof a string
+function that prints half of a string
