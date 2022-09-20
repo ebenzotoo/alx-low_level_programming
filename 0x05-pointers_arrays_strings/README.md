@@ -1,1 +1,1 @@
-function that returns the length of a string
+function that prints a string
