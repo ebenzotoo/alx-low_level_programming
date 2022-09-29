@@ -1,1 +1,1 @@
-function that returns the value of x
+function that returns the natural square root of a number
