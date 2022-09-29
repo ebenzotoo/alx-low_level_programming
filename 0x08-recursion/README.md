@@ -1,1 +1,1 @@
-function that returns 1 if input integer is a prime number
+function that returns 1 if a string is a palindrome
