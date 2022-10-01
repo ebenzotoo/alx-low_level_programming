@@ -1,1 +1,1 @@
-program that prints the number of arguments
+program that prints all arguments it receives
